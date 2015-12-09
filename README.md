@@ -1,12 +1,8 @@
 # hello-world
 
-// my first program in C++
+**bold**
 
-#include <iostream>
+*italic*
 
-int main()
-{
+[link to hellow world code](http://www.cplusplus.com/doc/tutorial/program_structure/)
 
-  std::cout << "Hello World!";
-  
-}
